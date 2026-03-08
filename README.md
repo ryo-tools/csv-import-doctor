@@ -9,7 +9,7 @@ If you work with client files, web exports, or legacy CSVs, this tool helps you 
 ---
 
 ## What it checks
-![CSV Import Doctor UI](screenshots/app-screenshot.jpg)
+![CSV Import Doctor UI](screenshots/app-screenshot.png)
 
 Drop in a CSV file and get:
 
