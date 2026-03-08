@@ -11,6 +11,9 @@ If you work with client files, web exports, or legacy CSVs, this tool helps you 
 ## What it checks
 ![CSV Import Doctor UI](screenshots/app-screenshot.png)
 
+### Live Demo
+![Demo](screenshots/demo.gif)
+
 Drop in a CSV file and get:
 
 - Encoding detection (UTF-8, Shift-JIS, etc.)
